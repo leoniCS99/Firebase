@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto Firebase</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email:</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Senha</string>
+    <string name="text_cadastro">Crie uma Conta cliclando aqui</string>
+    <string name="title_cadastro">Cadastra-se</string>
+</resources>
