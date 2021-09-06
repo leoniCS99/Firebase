@@ -1,5 +1,5 @@
 
-![Logo of the project](https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/logo.png)
+<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/logo.png" width="300">
 
 
 # ProjetoFirebase
@@ -21,11 +21,12 @@ aqui estão as tecnologias utilizadas neste projeto.
 
 ### 1 - Login no Aplicativo se tiver uma conta registrada.
 
-![Login](https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/Login.png)
+<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/Login.png" width="300">
 
 ### 2 - Ou simplesmente crie sua conta.
 
-![Sign up](https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/Cadastro.png)
+
+<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/Cadastro.png" width="300">
 
 
 ## Links
