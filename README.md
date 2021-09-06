@@ -1,5 +1,5 @@
 
-<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/logo.png" width="280">
+<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/logo.png" width="250">
 
 
 # ProjetoFirebase
